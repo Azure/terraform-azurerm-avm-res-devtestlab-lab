@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Azure/azure-verified-modules-tools/main/src/Avm.Authoring/Resources/Schemas/v1/avm-module-metadata.schema.json",
+  "moduleDisplayName": "DevTest Lab",
+  "moduleDescription": "AVM Resource Module for DevTest Lab",
+  "canonicalType": "Microsoft.DevTestLab/labs",
+  "owners": [
+    "sharmilamusunuru"
+  ],
+  "telemetryIdPrefix": "46d3xtrf.res.9721081"
+}
