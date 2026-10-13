@@ -1,3 +1,3 @@
 # Default example
 
-This deploys the module in its simplest form.
+This example exercises the virtual network starter, not a DevTest Lab implementation.
